@@ -55,9 +55,7 @@
 
 ## Как посмотреть детали
 
-- [Полный Vision & Scope (PDF)](./docs/Vision&Scope_CourtSync.pdf) — 56 страниц, всё по стандарту
-- *(Если есть диаграммы — добавьте ссылку на папку)*
-- *(Если есть макеты в Figma — добавьте ссылку)*
+- [Vision & Scope (PDF)](./docs/Vision&Scope_CourtSync.pdf) 
 
 ---
 
