@@ -26,7 +26,7 @@
 ### Диаграммы процессов
 | Use Case | Sequence: Бронирование | Sequence: Вход в аккаунт |Sequence: Применение фильтров |
 |----------|------------------------|------------------------|------------------------|
-| ![Use Case](./images/use-case.png) | ![Sequence Booking](./images/sequence-booking.png) |![Sequence Filtering](./images/sequence-filter.png)|
+| ![Use Case](./images/use-case.png) | ![Sequence Booking](./images/sequence-booking.png) | ![Sequence Login](./images/sequence-login.png) |![Sequence Filtering](./images/sequence-filter.png)|
 
 ### Требования и планирование
 | User Journey Map | Product Backlog |
