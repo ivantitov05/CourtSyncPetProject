@@ -24,9 +24,9 @@
 | ![C1](./images/c1-context.png) | ![C2](./images/c2-container.png) | ![C3](./images/c3-component.png) |
 
 ### Диаграммы процессов
-| Use Case | Sequence: Бронирование |
-|----------|------------------------|
-| ![Use Case](./images/use-case.png) | ![Sequence Booking](./images/sequence-booking.png) |
+| Use Case | Sequence: Бронирование | Sequence: Вход в аккаунт |Sequence: Применение фильтров |
+|----------|------------------------|------------------------|------------------------|
+| ![Use Case](./images/use-case.png) | ![Sequence Booking](./images/sequence-booking.png) |![Sequence Filtering](./images/sequence-filter.png)|
 
 ### Требования и планирование
 | User Journey Map | Product Backlog |
