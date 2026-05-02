@@ -31,7 +31,7 @@
 ### Требования и планирование
 | User Journey Map | Product Backlog |
 |------------------|-----------------|
-| ![User Journey Map](./images/user-journey.png) | ![Backlog](./images/backlog.png) |
+| ![User Journey Map](./images/user-journey.png) | ![Backlog](./docs/backlog.pdf) |
 ---
 
 ## Главное, что было сделано
